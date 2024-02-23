@@ -1,0 +1,21 @@
+{
+  "name": "etoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana"
+  ],
+  "author": "earnstein",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
